@@ -17,12 +17,15 @@ const DFSSummitPage: React.FC = () => (
 				<p>Increase Engagement</p>
 			</section>
 			<section className="flex justify-end">
-				<Image
-					src="/qr_code.png"
-					width={340}
-					height={340}
-					alt="Ingram.tech QR Code"
-				/>
+				<div>
+					<Image
+						src="/qr_code.png"
+						width={340}
+						height={340}
+						alt="ingram.tech/dfs23 QR Code"
+					/>
+					<p className="text-center text-xl mt-2">ingram.tech/dfs23</p>
+				</div>
 			</section>
 			<section className="flex gap-x-8 items-center justify-end">
 				<Image
