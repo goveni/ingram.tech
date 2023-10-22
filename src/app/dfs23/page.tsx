@@ -3,7 +3,7 @@ import React from "react";
 
 const DFSSummitPage: React.FC = () => (
 	<div className="bg-blue-dark min-h-screen">
-		<div className="max-w-3xl mx-auto px-8 space-y-8 text-right">
+		<div className="max-w-3xl mx-auto pt-16 px-8 space-y-8 text-right">
 			<Image src="/ingram_logo.png" alt="Ingram Logo" width={1362} height={320} />
 			<h1 className="text-6xl">
 				Stripe Payments
