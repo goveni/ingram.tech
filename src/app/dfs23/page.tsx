@@ -16,7 +16,14 @@ const DFSSummitPage: React.FC = () => (
 				<p className="font-bold">Enable New Ways to Pay</p>
 				<p>Increase Engagement</p>
 			</section>
-			<section>[QR Image Placeholder]</section>
+			<section className="flex justify-end">
+				<Image
+					src="/qr_code.png"
+					width={340}
+					height={340}
+					alt="Ingram.tech QR Code"
+				/>
+			</section>
 			<section className="flex gap-x-8 items-center justify-end">
 				<Image
 					src="/ftbe_logo.png"
