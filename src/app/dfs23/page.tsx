@@ -10,11 +10,11 @@ const DFSSummitPage: React.FC = () => (
 				<br />
 				<b>for AI Chatbots</b>
 			</h1>
-			<section>
-				<p>Embed Payments in your LLM</p>
+			<section className="text-2xl">
+				<p className="font-bold">Embed Payments in your LLM</p>
 				<p>Reduce Payments Friction</p>
-				<p>Enable new ways to pay</p>
-				<p>Increate Engagement</p>
+				<p className="font-bold">Enable New Ways to Pay</p>
+				<p>Increase Engagement</p>
 			</section>
 			<section>[QR Image Placeholder]</section>
 			<section className="flex gap-x-8 items-center justify-end">
