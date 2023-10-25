@@ -5,7 +5,7 @@ const Navbar = () => {
 	return (
 		<nav className="bg-transparent border-gray-200 dark:bg-gray-900">
 			<div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-				<a className="flex items-center">
+				<Link className="flex items-center" href="/">
 					<Image
 						src="/ingram_logo.png"
 						className="h-12 mr-3"
@@ -13,7 +13,7 @@ const Navbar = () => {
 						width={300}
 						height={48}
 					/>
-				</a>
+				</Link>
 				<button
 					data-collapse-toggle="navbar-default"
 					type="button"
