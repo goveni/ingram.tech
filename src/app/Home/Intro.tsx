@@ -1,5 +1,3 @@
-import React from "react";
-
 const Intro = () => {
 	return (
 		<div className="h-screen flex flex-col justify-center items-center  w-full  gap-20">

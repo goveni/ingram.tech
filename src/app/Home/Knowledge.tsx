@@ -1,4 +1,3 @@
-import React from "react";
 import {GiTechnoHeart} from "react-icons/gi";
 
 const features = [
