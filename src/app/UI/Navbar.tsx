@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 const Navbar = () => {
@@ -5,10 +6,12 @@ const Navbar = () => {
 		<nav className="bg-transparent border-gray-200 dark:bg-gray-900 ">
 			<div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
 				<a className="flex items-center">
-					<img
-						src="./ingram_logo.png"
+					<Image
+						src="/ingram_logo.png"
 						className="h-12 mr-3"
 						alt="Ingram logo"
+						width={300}
+						height={48}
 					/>
 				</a>
 				<button
