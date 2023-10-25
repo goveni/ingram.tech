@@ -1,6 +1,3 @@
-import React from "react";
-import {GiTechnoHeart} from "react-icons/gi";
-
 const page = () => {
 	return (
 		<div className="relative bg-zinc-900 my-36">
@@ -28,10 +25,10 @@ const page = () => {
 						</p>
 						<div className="mt-10 max-w-xl text-base leading-7 text-gray-700 lg:max-w-none">
 							<p>
-								With over a decade's worth of experience in fintech, and
-								a deep understanding of the complexities and nuances of
-								the financial sector, Goveni is renowned for its
-								comprehensive, tailor-made strategies that drive
+								With over a decade&apos;s worth of experience in
+								fintech, and a deep understanding of the complexities
+								and nuances of the financial sector, Goveni is renowned
+								for its comprehensive, tailor-made strategies that drive
 								innovation and transform businesses. Our expertise is
 								broad and deep, reflecting the robust, diverse skill set
 								of our team. This rich tapestry of talents and insights
@@ -55,7 +52,7 @@ const page = () => {
 								Our track record
 							</h2>
 							<p className="mt-6">
-								Goveni's track record of delivering game-changing
+								Goveni&apos;s track record of delivering game-changing
 								solutions speaks for itself. By continually adapting to
 								the landscape, we help businesses break new ground,
 								unlock fresh opportunities, and foster sustainable

@@ -1,4 +1,3 @@
-import React from "react";
 import data from "../members.json";
 
 const page = () => {
@@ -13,7 +12,7 @@ const page = () => {
 					<p className="mt-4 text-lg leading-8 text-gray-400">
 						Each team member has gone through a lengthy vetting process and
 						rigorous training. We do not outsource our work offshore. <br />
-						You're in good hands.
+						You&apos;re in good hands.
 					</p>
 				</div>
 				<ul
