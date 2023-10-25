@@ -28,9 +28,11 @@
 		"typescript": "^5"
 	},
 	"prettier": {
-		"trailingComma": "all",
+		"arrowParens": "always",
+		"bracketSpacing": false,
 		"printWidth": 88,
 		"tabWidth": 4,
+		"trailingComma": "all",
 		"useTabs": true
 	},
 	"eslintConfig": {
