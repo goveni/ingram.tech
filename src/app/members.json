@@ -1,0 +1,71 @@
+{
+    "members":[
+        {
+            "image": "../members/jerome-leclanche.webp",
+            "name": "Jerome Leclanche",
+            "title": "Founder, Director",
+            "role": "Software Engineer since 2005. Repeat founder."
+        },
+        {
+            "image": "../members/pierre-buchet.webp",
+            "name": "Pierre Buchet",
+            "title": "Chief Revenue Officer",
+            "role": "14 years in sales. Advises only the best in the business."
+            
+        },
+        {
+            "image": "../members/robert-nix.webp",
+            "name": "Robert Nix",
+            "title": "Senior Architect",
+            "role": "Engineering at Twitch. Built services used by millions."
+        },
+        {
+            "image": "../members/amir-karimi.webp",
+            "name": "Amir Karimi",
+            "title": "Senior Architect",
+            "role": "20 years in Tech. Ex-Amazon lead. Startup expert."
+        },
+        {
+            "image": "../members/arnav-choudhury.webp",
+            "name": "Arnav Choudhury",
+            "title": "Senior Stripe Architect",
+            "role": "Certified Stripe expert. Open Source rockstar."
+        },
+        {
+            "image": "../members/david-stewart.webp",
+            "name": "David Stewart",
+            "title": "Senior AI Engineer",
+            "role": "Playing with GPT-2 since before it was cool."
+        },
+        {
+            "image": "../members/adrian-pascu.webp",
+            "name": "Adrian Pascu",
+            "title": "Solutions Engineer",
+            "role": "Mad reverse engineer with a knack for Zettelkasten."
+        },
+        {
+            "image": "../members/edwards-moses.webp",
+            "name": "Edwards Moses",
+            "title": "Full-Stack Software Engineer",
+            "role": "Stripe-certified specialist. Automation guru."
+        },
+        {
+            "image": "../members/julien-vandenbroucke.webp",
+            "name": "Julien Vandenbroucke",
+            "title": "Technical Sales Lead",
+            "role": "Stripe expert. Problem solver. Never missed a beat."
+        },
+        {
+            "image": "../members/anna-opanasenko.webp",
+            "name": "Anna Opanasenko",
+            "title": "Junior Developer",
+            "role": "TypeScript & React specialist. Fearless coder."
+        },
+        {
+            "image": "../members/enzo-grillo.webp",
+            "name": "Enzo Grillo",
+            "title": "Junior Developer",
+            "role": "UX & UI expert. Front-end wiz in training."
+        }
+    ]
+}
