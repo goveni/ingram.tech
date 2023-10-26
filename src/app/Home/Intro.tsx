@@ -14,6 +14,14 @@ const Intro = () => {
 					<p className="text-white pt-5 text-right">
 						When they do, they come to us, <br /> and we make it happen.
 					</p>
+					<div className="mt-10 text-right">
+						<a
+							href="mailto:sales@ingram.tech"
+							className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+						>
+							Book a Free Consultation ⚡
+						</a>
+					</div>
 				</div>
 			</div>
 		</div>
