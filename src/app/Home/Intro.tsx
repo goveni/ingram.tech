@@ -11,7 +11,7 @@ const Intro = () => {
 					<h1>
 						Do humans <br /> Dream of AI <br /> Sheep?
 					</h1>
-					<p className="text-white pt-5 text-right">
+					<p className="text-white pt-5 text-right text-xl">
 						When they do, they come to us, <br /> and we make it happen.
 					</p>
 					<div className="mt-10 text-right">

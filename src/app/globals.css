@@ -14,9 +14,11 @@
 		@apply font-extrabold text-7xl text-white;
 		font-family: "Android", sans-serif;
 	}
+
 	h2 {
 		@apply font-extrabold text-5xl mb-3 text-white;
 	}
+
 	p {
 		@apply text-white;
 		font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
