@@ -1,7 +1,7 @@
-import CTA from "./Home/CTA";
-import Content from "./Home/Content";
-import Intro from "./Home/Intro";
-import Knowledge from "./Home/Knowledge";
+import CTA from "./home/CTA";
+import Content from "./home/Content";
+import Intro from "./home/Intro";
+import Knowledge from "./home/Knowledge";
 
 const HomePage = () => (
 	<>
