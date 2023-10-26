@@ -1,4 +1,4 @@
-const page = () => {
+const AboutPage = () => {
 	return (
 		<div className="relative bg-zinc-900 my-36">
 			<div className="mx-auto max-w-7xl lg:flex lg:justify-between lg:px-8 xl:justify-end">
@@ -69,4 +69,4 @@ const page = () => {
 	);
 };
 
-export default page;
+export default AboutPage;

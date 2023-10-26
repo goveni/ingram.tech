@@ -1,6 +1,6 @@
-import data from "../members.json";
+import data from "./members.json";
 
-const page = () => {
+const TeamPage = () => {
 	const members = data.members;
 	return (
 		<div className="bg-zinc-900 py-24 sm:py-32">
@@ -46,4 +46,4 @@ const page = () => {
 	);
 };
 
-export default page;
+export default TeamPage;
