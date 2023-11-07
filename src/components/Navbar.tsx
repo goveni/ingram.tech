@@ -8,16 +8,16 @@ const Navbar = () => {
 				<Link className="flex items-center" href="/">
 					<Image
 						src="/images/logo_darkmode.png"
-						className="h-12 mr-3"
+						className=" mr-3"
 						alt="Ingram logo"
-						width={300}
-						height={48}
+						width={150}
+						height={24}
 					/>
 				</Link>
 				<button
 					data-collapse-toggle="navbar-default"
 					type="button"
-					className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200"
+					className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100  focus:outline-none focus:ring-2 focus:ring-gray-200"
 					aria-controls="navbar-default"
 					aria-expanded="false"
 				>
@@ -51,16 +51,24 @@ const Navbar = () => {
 						</li>
 						<li>
 							<Link
-								href="/about"
-								className="block py-2 pl-3 pr-4 text-white rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-red-500 md:p-0"
+								href="/product"
+								className="block py-2 pl-3 pr-4 text-white rounded hover:bg-blue-700 md:hover:bg-transparent md:border-0 md:hover:text-red-500 md:p-0"
 							>
-								About
+								ToolBox
+							</Link>
+						</li>
+						<li>
+							<Link
+								href="/faraday"
+								className="block py-2 pl-3 pr-4 text-white rounded hover:bg-blue-700 md:hover:bg-transparent md:border-0 md:hover:text-red-500 md:p-0"
+							>
+								Faraday
 							</Link>
 						</li>
 						<li>
 							<Link
 								href="/team"
-								className="block py-2 pl-3 pr-4 text-white rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-red-500 md:p-0"
+								className="block py-2 pl-3 pr-4 text-white rounded hover:bg-blue-700 md:hover:bg-transparent md:border-0 md:hover:text-red-500 md:p-0"
 							>
 								The Team
 							</Link>

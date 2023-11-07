@@ -3,7 +3,7 @@ const Intro = () => {
 		<div className="h-screen flex flex-col justify-center items-center  w-full  gap-20">
 			<img
 				src="/network.jpg"
-				className="mix-blend-color-dodge absolute left-0  -z-10"
+				className="mix-blend-color-dodge h-screen w-screen top-0   absolute left-0  -z-10"
 				alt="A shimmering network representing AI"
 			/>
 			<div className="flex justify-center items-center w-10/12 gap-10  ">

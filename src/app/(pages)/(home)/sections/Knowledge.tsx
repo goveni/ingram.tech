@@ -1,39 +1,25 @@
-import {GiTechnoHeart} from "react-icons/gi";
+import Image from "next/image";
+import {GiProgression, GiShieldReflect, GiTechnoHeart} from "react-icons/gi";
 
 const features = [
 	{
-		name: "Evolving",
-		description: `In the evolving landscape of artificial intelligence, there
-        exists a transformative force that's reshaping the way we
-        communicate, learn, and make decisions. This force captures the
-        essence of human language, offering depth and versatility in its
-        applications, a culmination of countless nuances and
-        intricacies. To navigate this vast realm and harness its full
-        potential, you need a guiding hand—a master of the craft.`,
-		href: "#",
-		icon: GiTechnoHeart,
-	},
-	{
 		name: "Expertise",
-		description: `Our expertise lies in sculpting this force to perfection. We
-        adapt and refine, ensuring it aligns seamlessly with specific
-        industry needs, while integrating effortlessly into varied
-        platforms. This isn't just about sifting through vast data or
-        complex computations—it's about crafting tools that think,
-        adapt, and evolve, mirroring the brilliance of human intellect.`,
+		description: `A team of experts in Cybersecurity, AI and Business Intelligence based in France and Belgium, 30 years experience serving major groups and international organizations through the unique FARADAY technology. A partner network of AI researchers (REFIA) in 14 French-speaking countries.`,
+		href: "#",
+		icon: GiProgression,
+	},
+	{
+		name: "Adaptability",
+		description: `Craft your own specialists, ready to field any technical queries. Whether it's a "Swedish attorney specializing in employment rights" or a "veterinarian with expertise in red panda bears," we train them for you. Creating assistant is just one of our many AI powered tools.`,
 		href: "#",
 		icon: GiTechnoHeart,
 	},
 	{
-		name: "Imagine",
-		description: `Imagine conversational agents that rival human interactions,
-        content creators that can replicate any narrative flair, or
-        systems that can delve deep into texts, unveiling insights in a
-        heartbeat. With our bespoke solutions, the line between dream
-        and reality blurs. Step into the future of intelligent language
-        processing, with us charting the course.`,
+		name: "Safety",
+		description: `We safeguard your data on your own server, ensuring impenetrable integrity. GDPR compliance is our unwavering commitment.
+		Our meticulous boundary-setting defines the path our AI must tread, guaranteeing a safe user experience.`,
 		href: "#",
-		icon: GiTechnoHeart,
+		icon: GiShieldReflect,
 	},
 ];
 
@@ -43,13 +29,19 @@ const Knowledge = () => {
 			<div className="mx-auto max-w-7xl px-6 lg:px-8">
 				<div className="mx-auto max-w-2xl lg:text-center">
 					<h2 className="text-base font-semibold leading-7 text-indigo-400">
-						Chat Faster
+						Move faster with our cutting-edge AI-powered tools
 					</h2>
 					<p className="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">
-						Everything you need to use our ChatBot
+						Everyone desires extra time, <br /> we make that a reality.
 					</p>
 					<p className="mt-6 text-lg leading-8 text-gray-300">
-						Get the answers you need in a shorter amount of time.
+						Get the answers you need <b>fast</b>.
+					</p>
+					<br />
+					<p>
+						At <b>INGRAM</b>, we believe that the power of AI should be
+						accessible to all, without compromising security. Discover how
+						we&apos;re making this possible.
 					</p>
 				</div>
 				<div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">

@@ -1,8 +1,8 @@
 import type {Metadata} from "next";
 import {Inter} from "next/font/google";
-import Footer from "../components/Footer";
-import Navbar from "../components/Navbar";
 import "./globals.css";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 
 const inter = Inter({subsets: ["latin"]});
 
@@ -19,6 +19,7 @@ const RootLayout = ({children}: {children: React.ReactNode}) => (
 				{children}
 				<Footer />
 			</main>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.0.0/flowbite.min.js"></script>
 		</body>
 	</html>
 );
