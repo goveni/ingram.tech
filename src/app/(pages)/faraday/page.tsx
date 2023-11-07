@@ -1,5 +1,4 @@
 import Image from "next/image";
-import React from "react";
 
 const stats = [
 	{
@@ -15,14 +14,14 @@ const stats = [
 const posts = [
 	{
 		id: 1,
-		title: "Innovative  training for LLMS & Secured File sharing.",
+		title: "Innovative training for LLMS & Secured File sharing.",
 		description:
 			"Faraday models are trained with Rope Scaling for context extension and chain of toughts prompting.",
 		image: "/faraday/faraday1.webp",
 	},
 	{
 		id: 2,
-		title: "Data quality & All-in-One Assistant for  Banking/Chat",
+		title: "Data quality & All-in-One Assistant for Banking/Chat",
 		description:
 			"Faraday focus more on data sourcing than quantity of data to train our models. As example, our Aria models are trained on high quality talks from French parliament.",
 		image: "/faraday/faraday2.webp",
@@ -62,9 +61,9 @@ function page() {
 							<p className="mt-6 text-lg leading-8 text-gray-300">
 								Faraday is building the next generation of artificial
 								intelligence tools for social impact with open source
-								technologies available within an "all-in-one" software
-								called Ares Chat and a secured web browser hosting users
-								data in Europe.
+								technologies available within an &quot;all-in-one&quot;
+								software called Ares Chat and a secured web browser
+								hosting users data in Europe.
 							</p>
 						</div>
 
