@@ -27,9 +27,6 @@ const Knowledge = () => {
 		<div className="bg-zinc-900 py-24 sm:py-32">
 			<div className="mx-auto max-w-7xl px-6 lg:px-8">
 				<div className="mx-auto max-w-2xl lg:text-center">
-					<h2 className="text-base font-semibold leading-7 text-indigo-400">
-						Move faster with our cutting-edge AI-powered tools
-					</h2>
 					<p className="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">
 						Everyone desires extra time, <br /> we make that a reality.
 					</p>
