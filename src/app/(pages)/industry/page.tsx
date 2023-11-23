@@ -1,5 +1,3 @@
-import React from "react";
-
 const page = () => {
 	return (
 		<div className=" py-24 sm:py-32">
@@ -28,26 +26,21 @@ const page = () => {
 							</p>
 							<ul>
 								<li>
-									<span>Legal research :</span>{" "}
-									Thorough legal research ensuring your AI complies
-									with regulations and operates ethically.
+									<span>Legal research:</span> Thorough legal research
+									ensuring your AI complies with regulations and
+									operates ethically.
 								</li>
 								<li>
-									<span>
-										Contract analysis :
-									</span>{" "}
-									Precise analysis of AI-related contracts,
-									safeguarding your interests and ensuring legal
-									compliance.
+									<span>Contract analysis:</span> Precise analysis of
+									AI-related contracts, safeguarding your interests
+									and ensuring legal compliance.
 								</li>
 								<li>
-									<span>
-										AI legal assistants :
-									</span>{" "}
-									Tailoring advanced AI tools for specific practice
-									areas, enhancing efficiency in document review,
-									legal research, and analysis to meet the unique
-									needs of your legal practice.
+									<span>AI legal assistants:</span> Tailoring advanced
+									AI tools for specific practice areas, enhancing
+									efficiency in document review, legal research, and
+									analysis to meet the unique needs of your legal
+									practice.
 								</li>
 							</ul>
 						</div>
@@ -62,28 +55,22 @@ const page = () => {
 							</p>
 							<ul>
 								<li>
-									<span>
-										Assist with regulatory compliance :
-									</span>{" "}
+									<span>Assist with regulatory compliance:</span>{" "}
 									Ensure regulatory compliance through meticulous
 									legal research, guaranteeing that your AI in finance
 									aligns with industry regulations and ethical
 									standards.
 								</li>
 								<li>
-									<span>
-										Financial document analysis :
-									</span>{" "}
-									Conduct precise analysis of financial documents
-									related to AI, safeguarding your interests and
-									ensuring legal compliance within the dynamic
-									landscape of finance and banking.
+									<span>Financial document analysis:</span> Conduct
+									precise analysis of financial documents related to
+									AI, safeguarding your interests and ensuring legal
+									compliance within the dynamic landscape of finance
+									and banking.
 								</li>
 								<li>
-									<span>
-										AI financial assistants :
-									</span>{" "}
-									Craft specialized AI tools for finance, optimizing
+									<span>AI financial assistants:</span> Craft
+									specialized AI tools for finance, optimizing
 									document review, legal research, and analysis to
 									meet the distinctive requirements of financial and
 									banking practices.
@@ -101,31 +88,24 @@ const page = () => {
 							</p>
 							<ul>
 								<li>
-									<span>
-										Extracting medical information :
-									</span>{" "}
-									Conduct thorough legal research to ensure your
-									healthcare AI complies with regulations, maintaining
-									ethical operations in the extraction of medical
-									information.
+									<span>Extracting medical information:</span> Conduct
+									thorough legal research to ensure your healthcare AI
+									complies with regulations, maintaining ethical
+									operations in the extraction of medical information.
 								</li>
 								<li>
-									<span>
-										Research papers :
-									</span>{" "}
-									Precisely analyze AI-related contracts for
-									healthcare, safeguarding your interests and ensuring
-									legal compliance in the ever-evolving field of
-									healthcare and pharmaceuticals.
+									<span>Research papers:</span> Precisely analyze
+									AI-related contracts for healthcare, safeguarding
+									your interests and ensuring legal compliance in the
+									ever-evolving field of healthcare and
+									pharmaceuticals.
 								</li>
 								<li>
-									<span>
-										AI healthcare assistants :
-									</span>{" "}
-									Customize advanced AI tools for healthcare,
-									optimizing document review, legal research, and
-									analysis to meet the distinctive needs of the
-									healthcare and pharmaceutical legal landscape.
+									<span>AI healthcare assistants:</span> Customize
+									advanced AI tools for healthcare, optimizing
+									document review, legal research, and analysis to
+									meet the distinctive needs of the healthcare and
+									pharmaceutical legal landscape.
 								</li>
 							</ul>
 						</div>
@@ -140,23 +120,19 @@ const page = () => {
 							</p>
 							<ul>
 								<li>
-									<span>
-										Market research :
-									</span>{" "}
-									Ensure legal compliance and ethical operations of
-									your AI in retail for market research.
+									<span>Market research:</span> Ensure legal
+									compliance and ethical operations of your AI in
+									retail for market research.
+								</li>
+								<li>
+									<span>Competitor analysis:</span> Safeguard
+									interests and ensure legal compliance in AI-related
+									contracts, particularly in the competitive realm of
+									retail.
 								</li>
 								<li>
 									<span>
-										Competitor analysis :
-									</span>{" "}
-									Safeguard interests and ensure legal compliance in
-									AI-related contracts, particularly in the
-									competitive realm of retail.
-								</li>
-								<li>
-									<span>
-										Customer support with advanced chatbots :
+										Customer support with advanced chatbots:
 									</span>{" "}
 									Tailor AI tools for retail, optimizing efficiency in
 									document review, legal research, and analysis to
@@ -176,9 +152,7 @@ const page = () => {
 							</p>
 							<ul>
 								<li>
-									<span>
-										Automating property document analysis :
-									</span>{" "}
+									<span>Automating property document analysis:</span>{" "}
 									Ensure legal compliance and ethical operation of
 									your AI in property management through thorough
 									legal research.
@@ -205,25 +179,21 @@ const page = () => {
 							</p>
 							<ul>
 								<li>
-									<span>
-										Enhance supply chain efficiency :
-									</span>{" "}
-									Ensure legal compliance and ethical operation of
-									your AI in manufacturing and supply chain through
-									thorough legal research.
+									<span>Enhance supply chain efficiency:</span> Ensure
+									legal compliance and ethical operation of your AI in
+									manufacturing and supply chain through thorough
+									legal research.
+								</li>
+								<li>
+									<span>Analyze manufacturing data:</span> Tailor
+									advanced AI tools for manufacturing, optimizing
+									efficiency in document review, legal research, and
+									analysis to meet the unique legal needs of your
+									practice.
 								</li>
 								<li>
 									<span>
-										Analyze manufacturing data :
-									</span>{" "}
-									Tailor advanced AI tools for manufacturing,
-									optimizing efficiency in document review, legal
-									research, and analysis to meet the unique legal
-									needs of your practice.
-								</li>
-								<li>
-									<span>
-										streamline processes with AI-powered insights :
+										streamline processes with AI-powered insights:
 									</span>{" "}
 									Customize advanced AI tools for manufacturing and
 									supply chain, enhancing efficiency in document
@@ -245,26 +215,19 @@ const page = () => {
 							</p>
 							<ul>
 								<li>
-									<span>
-										Content analysis :
-									</span>{" "}
-									Ensure legal compliance and ethical operation of
-									your AI in marketing and advertising through
-									thorough legal research.
+									<span>Content analysis:</span> Ensure legal
+									compliance and ethical operation of your AI in
+									marketing and advertising through thorough legal
+									research.
 								</li>
 								<li>
-									<span>
-										Market research :
-									</span>{" "}
-									Tailor advanced AI tools for marketing, optimizing
-									efficiency in document review, legal research, and
-									analysis to meet the unique legal needs of your
-									practice.
+									<span>Market research:</span> Tailor advanced AI
+									tools for marketing, optimizing efficiency in
+									document review, legal research, and analysis to
+									meet the unique legal needs of your practice.
 								</li>
 								<li>
-									<span>
-										AI marketing strategy assistants: :
-									</span>{" "}
+									<span>AI marketing strategy assistants:</span>{" "}
 									Customize advanced AI tools for marketing and
 									advertising, enhancing efficiency in document
 									review, legal research, and analysis to meet the
@@ -285,26 +248,19 @@ const page = () => {
 							</p>
 							<ul>
 								<li>
-									<span>
-										Enhance e-learning materials :
-									</span>{" "}
-									Ensure legal compliance and ethical operation of
-									your AI in education and e-learning through thorough
-									legal research.
+									<span>Enhance e-learning materials:</span> Ensure
+									legal compliance and ethical operation of your AI in
+									education and e-learning through thorough legal
+									research.
 								</li>
 								<li>
-									<span>
-										Assist with research :
-									</span>{" "}
-									Tailor advanced AI tools for education, optimizing
-									efficiency in document review, legal research, and
-									analysis to meet the unique legal needs of your
-									practice.
+									<span>Assist with research:</span> Tailor advanced
+									AI tools for education, optimizing efficiency in
+									document review, legal research, and analysis to
+									meet the unique legal needs of your practice.
 								</li>
 								<li>
-									<span>
-										AI tutors for different subjects :
-									</span>{" "}
+									<span>AI tutors for different subjects:</span>{" "}
 									Customize advanced AI tools for education and
 									e-learning, enhancing efficiency in document review,
 									legal research, and analysis to meet the distinctive
