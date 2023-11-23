@@ -17,7 +17,7 @@ const page = () => {
 			<div className="my-20 flex flex-col sm:flex-col md:flex-col lg:flex-row justify-between items-center">
 				<div className="w-full sm:w-full md:w-full lg:w-6/12 order-3 lg:order-1">
 					<h3>Instant Information Extraction:</h3>
-					<p >
+					<p>
 						Capable of reading a 500-page PDF in a mere second, ensuring
 						rapid and effortless access to any desired information.
 					</p>
@@ -37,18 +37,19 @@ const page = () => {
 				/>
 				<div className="w-full sm:w-full md:w-full lg:w-6/12">
 					<h3>AI-Personalities on Demand:</h3>
-					<p >
+					<p>
 						Craft your own specialists, ready to field any technical
-						queries. Whether it's a 'Swedish attorney specializing' in
-						employment rights or a 'veterinarian with expertise in red panda
-						bears', we train them for you.
+						queries. Whether it&apos;s a &lsquo;Swedish attorney
+						specializing&rsquo; in employment rights or a
+						&lsquo;veterinarian with expertise in red panda bears&rsquo;, we
+						train them for you.
 					</p>
 				</div>
 			</div>
 			<div className="my-20 flex flex-col sm:flex-col md:flex-col lg:flex-row justify-between items-center">
 				<div className="w-full sm:w-full md:w-full lg:w-6/12 order-3 lg:order-1">
 					<h3>24/7 Chatbot Excellence:</h3>
-					<p >
+					<p>
 						Never miss an incoming signal with our chatbot that operates
 						around the clock. Enhance customer satisfaction and drive
 						transformative business outcomes.
@@ -68,7 +69,7 @@ const page = () => {
 				/>
 				<div className="w-full sm:w-full md:w-full lg:w-6/12">
 					<h3>Continuous Market Insight:</h3>
-					<p >
+					<p>
 						Maintain an unwavering focus on market dynamics, competitors,
 						and strategic partners to make well-informed decisions.
 					</p>
@@ -77,9 +78,9 @@ const page = () => {
 			<div className="my-20 flex flex-col sm:flex-col md:flex-col lg:flex-row justify-between items-center">
 				<div className="w-full sm:w-full md:w-full lg:w-6/12 order-3 lg:order-1">
 					<h3>AI-Powered Team Training:</h3>
-					<p >
-						Elevate your team's capabilities through our AI-powered teaching
-						solutions.
+					<p>
+						Elevate your team&apos;s capabilities through our AI-powered
+						teaching solutions.
 					</p>
 				</div>
 				<img
@@ -96,7 +97,7 @@ const page = () => {
 				/>
 				<div className="w-full sm:w-full md:w-full lg:w-6/12">
 					<h3>Ultimate Data Security:</h3>
-					<p >
+					<p>
 						Keep all your data safe and secure with the first European AI
 						tools hosted right at your doorstep.
 					</p>

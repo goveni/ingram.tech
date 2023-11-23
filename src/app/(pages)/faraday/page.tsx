@@ -1,5 +1,4 @@
 import Image from "next/image";
-import React from "react";
 
 const stats = [
 	{
@@ -62,9 +61,9 @@ function page() {
 							<p className="mt-6 text-lg leading-8 text-gray-300">
 								Faraday is building the next generation of artificial
 								intelligence tools for social impact with open source
-								technologies available within an "all-in-one" software
-								called Ares Chat and a secured web browser hosting users
-								data in Europe.
+								technologies available within an
+								&ldquo;all-in-one&rdquo; software called Ares Chat and a
+								secured web browser hosting users data in Europe.
 							</p>
 						</div>
 

@@ -1,5 +1,4 @@
 import Link from "next/link";
-import {GiProgression, GiShieldReflect, GiTechnoHeart} from "react-icons/gi";
 
 const features = [
 	{
