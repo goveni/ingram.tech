@@ -43,7 +43,7 @@ const Navbar = () => {
 						<li>
 							<a
 								href="/"
-								className="block py-2 pl-3 pr-4 text-white bg-blue-700 rounded md:bg-transparent md:text-red-500 md:p-0"
+								className="text-lg block py-2 pl-3 pr-4 text-white bg-blue-700 rounded md:bg-transparent md:text-red-500 md:p-0"
 								aria-current="page"
 							>
 								Home
@@ -52,15 +52,23 @@ const Navbar = () => {
 						<li>
 							<Link
 								href="/solutions"
-								className="block py-2 pl-3 pr-4 text-white rounded hover:bg-blue-700 md:hover:bg-transparent md:border-0 md:hover:text-red-500 md:p-0"
+								className="text-lg block py-2 pl-3 pr-4 text-white rounded hover:bg-blue-700 md:hover:bg-transparent md:border-0 md:hover:text-red-500 md:p-0"
 							>
 								Solutions
 							</Link>
 						</li>
 						<li>
 							<Link
-								href="/about/faraday"
-								className="block py-2 pl-3 pr-4 text-white rounded hover:bg-blue-700 md:hover:bg-transparent md:border-0 md:hover:text-red-500 md:p-0"
+								href="/industry"
+								className="text-lg block py-2 pl-3 pr-4 text-white rounded hover:bg-blue-700 md:hover:bg-transparent md:border-0 md:hover:text-red-500 md:p-0"
+							>
+								Industry
+							</Link>
+						</li>
+						<li>
+							<Link
+								href="/faraday"
+								className="text-lg block py-2 pl-3 pr-4 text-white rounded hover:bg-blue-700 md:hover:bg-transparent md:border-0 md:hover:text-red-500 md:p-0"
 							>
 								Our AI Lab
 							</Link>
@@ -68,7 +76,7 @@ const Navbar = () => {
 						<li>
 							<Link
 								href="/team"
-								className="block py-2 pl-3 pr-4 text-white rounded hover:bg-blue-700 md:hover:bg-transparent md:border-0 md:hover:text-red-500 md:p-0"
+								className="text-lg block py-2 pl-3 pr-4 text-white rounded hover:bg-blue-700 md:hover:bg-transparent md:border-0 md:hover:text-red-500 md:p-0"
 							>
 								The Team
 							</Link>

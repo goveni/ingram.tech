@@ -18,10 +18,22 @@
 	h2 {
 		@apply font-extrabold text-5xl mb-3 text-white;
 	}
+	h3 {
+		@apply font-extrabold text-2xl  text-indigo-400;
+	}
+	h4 {
+		@apply font-extrabold text-xl  text-indigo-400;
+	}
 
 	p {
-		@apply text-white;
+		@apply text-white text-lg;
 		font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	}
+	span {
+		@apply text-white text-xl ;
+	}
+	li {
+		@apply text-gray-400 text-sm ;
 	}
 }
 

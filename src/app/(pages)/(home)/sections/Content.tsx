@@ -4,10 +4,10 @@ function Content() {
 			<div className="mx-auto max-w-7xl px-6 pb-32 pt-36 sm:pt-60 lg:px-8 lg:pt-32">
 				<div className="mx-auto max-w-2xl gap-x-14 lg:mx-0 lg:flex lg:max-w-none lg:items-center">
 					<div className="w-full max-w-xl lg:shrink-0 xl:max-w-2xl">
-						<h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
-							We&apos;re changing the way companies work...
+						<h1 className="text-4xl font-bold tracking-tight sm:text-6xl text-indigo-400">
+						Uncover AI’s perks.
 						</h1>
-						<p className="relative mt-6 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">
+						<p className="relative mt-6  sm:max-w-md lg:max-w-none">
 							The adoption of AI chatbots in a company can result in cost
 							savings, improved customer service, enhanced efficiency, and
 							a competitive edge in a rapidly evolving business landscape.
@@ -17,7 +17,7 @@ function Content() {
 								href="mailto:sales@ingram.tech"
 								className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
 							>
-								Get started
+								Talk to an Expert Today ⚡
 							</a>
 						</div>
 					</div>

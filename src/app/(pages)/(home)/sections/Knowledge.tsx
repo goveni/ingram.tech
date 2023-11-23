@@ -44,14 +44,14 @@ const Knowledge = () => {
 					<dl className="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-3">
 						{features.map((feature) => (
 							<div key={feature.name} className="flex flex-col">
-								<dt className="flex items-center gap-x-3 text-base font-semibold leading-7 text-white">
+								<dt className="flex  items-center gap-x-3 text-base font-semibold leading-7 text-white">
 									<feature.icon
 										className="h-5 w-5 flex-none text-indigo-400"
 										aria-hidden="true"
-									/>
-									{feature.name}
+										/>
+										<h3>{feature.name}</h3>
 								</dt>
-								<dd className="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-300">
+								<dd className="mt-4 flex flex-auto flex-col text-base leading-7 ">
 									<p className="flex-auto">{feature.description}</p>
 								</dd>
 							</div>
