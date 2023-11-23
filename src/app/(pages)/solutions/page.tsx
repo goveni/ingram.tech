@@ -1,6 +1,6 @@
 const page = () => {
 	return (
-		<div className="mx-auto py-24 sm:py-32 w-10/12">
+		<div className="mx-auto py-24 sm:py-32 max-w-7xl px-6 lg:px-8">
 			<img
 				src="/solutions.jpg"
 				alt=""
