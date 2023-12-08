@@ -8,13 +8,15 @@ const nextConfig = {
 					"https://share-eu1.hsforms.com/1lnmc-TltTAqlog5PMc5V6A2b7hj7",
 				permanent: false,
 			},
-		];
-	},
-	async rewrites() {
-		return [
 			{
 				source: "/qr/card",
 				destination: "/?utm_source=business-card&utm_medium=qrcode",
+				permanent: false,
+			},
+			{
+				source: "/stripe",
+				destination: "https://dfs-demo.ingram.tech",
+				permanent: false,
 			},
 		];
 	},
